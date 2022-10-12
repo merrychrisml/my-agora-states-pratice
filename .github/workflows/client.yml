@@ -32,4 +32,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-62-merrychrisml \
             --delete
-        working-directory: ./my-agora-states-client/build
+        working-directory: ./my-agora-states-client
